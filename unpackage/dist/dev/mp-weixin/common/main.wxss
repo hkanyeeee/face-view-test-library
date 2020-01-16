@@ -1,0 +1,22 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*每个页面公共css */
+page{
+	font-family: PingFangSC-Regular;
+	height: 100%;
+	width: 100%;
+}
+

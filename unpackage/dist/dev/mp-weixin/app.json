@@ -1,0 +1,33 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/input/index",
+    "pages/delete/delete",
+    "pages/checkAnswer/checkAnswer"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#8F8F94",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/img/test.png",
+        "selectedIconPath": "static/img/test.png",
+        "text": "出题"
+      },
+      {
+        "pagePath": "pages/input/index",
+        "iconPath": "static/img/input.png",
+        "selectedIconPath": "static/img/input.png",
+        "text": "录题"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
